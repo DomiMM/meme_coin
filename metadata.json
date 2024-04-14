@@ -1,5 +1,21 @@
 {
   "name": "HodlCoon",
   "symbol": "HCOON",
-  "image": "https://github.com/DomiMM/crypto_2/blob/main/Bild3.png"
+  "uri": "https://example.com/hodlcoon-metadata.json",
+  "seller_fee_basis_points": 100, // Represents a 1% seller fee
+  "creators": [
+    {
+      "address": "YourWalletAddressHere",
+      "share": 100
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/DomiMM/crypto_2/blob/main/Bild3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
