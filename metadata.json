@@ -1,7 +1,8 @@
 {
   "name": "HodlCoon",
   "symbol": "HCOON",
-  "uri": "https://example.com/hodlcoon-metadata.json",
+  "uri": "https://raw.githubusercontent.com/DomiMM/meme_coin/main/metadata.json
+",
   "seller_fee_basis_points": 100,
   "creators": [
     {
