@@ -2,7 +2,7 @@
   "name": "HodlCoon",
   "symbol": "HCOON",
   "uri": "https://example.com/hodlcoon-metadata.json",
-  "seller_fee_basis_points": 100, // Represents a 1% seller fee
+  "seller_fee_basis_points": 100,
   "creators": [
     {
       "address": "YourWalletAddressHere",
